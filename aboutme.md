@@ -1,16 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: hobi kita berenang
+subtitle: belajar berenang
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+si penulis cerita adalah siswi dari mtsn 1 kota bima,si penulis tersebut brasal dari kelas 8IT2.si penulis berasal dari indonesia,bima nusa tenggara barat(NTB).si penulis berumur 14tahun.si penulis itu sangat suka menulis hasil imajinasi nya.dan si penulis sangat suka berenang.karna ia sangat suka berenang dan akhirnya ia terinspirasidari hobi nya tersebut.
